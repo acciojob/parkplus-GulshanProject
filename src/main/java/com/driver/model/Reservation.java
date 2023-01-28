@@ -59,6 +59,7 @@ public class Reservation {
     }
 
     public Spot getSpot() {
+
         return spot;
     }
 
